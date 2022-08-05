@@ -18,5 +18,7 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   PCA
+   Functional PCA
+   Kernel PCA
+   PCA as Nash equilibrium
